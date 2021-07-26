@@ -1,0 +1,70 @@
+2021-07-26
+
+-Resultados Circuito Nro. 1:-
+
+ Primer lugar para: Carlos.
+ Segundo lugar para: Miguel.
+ Tercer lugar para: David.
+
+-Resultados Circuito Nro. 2:-
+
+ Primer lugar para: Luis.
+ Segundo lugar para: Carlos.
+ Tercer lugar para: David.
+
+-Resultados Circuito Nro. 3:-
+
+ Primer lugar para: Luis.
+ Segundo lugar para: David.
+ Tercer lugar para: Carlos.
+
+-Resultados Circuito Nro. 4:-
+
+ Primer lugar para: Luis.
+ Segundo lugar para: Carlos.
+ Tercer lugar para: David.
+
+-Resultados Circuito Nro. 5:-
+
+ Primer lugar para: Miguel.
+ Segundo lugar para: Jose.
+ Tercer lugar para: Luis.
+
+-Resultados Circuito Nro. 6:-
+
+ Primer lugar para: Luis.
+ Segundo lugar para: Jose.
+ Tercer lugar para: Miguel.
+
+-Resultados Circuito Nro. 7:-
+
+ Primer lugar para: Jose.
+ Segundo lugar para: Luis.
+ Tercer lugar para: Carlos.
+
+-Resultados Circuito Nro. 8:-
+
+ Primer lugar para: Carlos.
+ Segundo lugar para: Luis.
+ Tercer lugar para: David.
+
+-Resultados Circuito Nro. 9:-
+
+ Primer lugar para: Luis.
+ Segundo lugar para: Carlos.
+ Tercer lugar para: Miguel.
+
+-Resultados Circuito Nro. 10:-
+
+ Primer lugar para: Carlos.
+ Segundo lugar para: Jose.
+ Tercer lugar para: Miguel.
+
+
+Podio General de Victorias: 
+
+ David: 0
+ Luis: 5
+ Miguel: 1
+ Carlos: 3
+ Jose: 1
